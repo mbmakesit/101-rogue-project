@@ -1,0 +1,33 @@
+//* Base Styles */
+
+body {
+	font-family: 'Monoserrat', sans-serif;
+	color: black;
+	font-size: 12px;
+}
+
+/* Menu */
+
+#menu h1 {
+	font-weight: 700;
+	color: #77a466;
+	font-size: 30px;
+	line-height: 23px;
+	
+}
+
+#menu h2{
+	font-weight: 700;
+	color: black;
+	font-size: 30px;
+	line-height: 23px;
+	
+}
+
+#menu ul {
+	font-size: 14px;
+	line-height: 23px;
+	color: #77a466;
+	font-style: bold;
+	
+}
